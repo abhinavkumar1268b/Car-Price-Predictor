@@ -3,10 +3,13 @@ import pickle
 import pandas as pd
 
 # Load model (pipeline)
-model = pickle.load(open(
-    r"D:\Machine learning\Projects\car_price_predict\car_app\model.pkl",
-    "rb"
-))
+
+import os
+
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
+
+with open(MODEL_PATH, "rb") as f:
+    model = pickle.load(f)
 
 # Get categories from OneHotEncoder inside pipeline
 # get ColumnTransformer safely (no name assumption)
