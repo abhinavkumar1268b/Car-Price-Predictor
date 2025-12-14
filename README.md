@@ -3,6 +3,7 @@
 A complete **end-to-end Machine Learning project** that predicts the **price of a used car** based on multiple features such as car name, company, fuel type, year, and kilometers driven. The project includes **data cleaning, feature engineering, model training using Scikit-learn Pipelines**, and a **modern Streamlit web application** for real-time predictions.
 
 ---
+# Link For the Model file : https://nbviewer.org/github/abhinavkumar1268b/Car-Price-Predictor/blob/main/car_price_predict/ml_model.ipynb
 
 ## 📌 Project Overview
 
