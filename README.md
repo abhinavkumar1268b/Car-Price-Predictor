@@ -1,6 +1,9 @@
 # 🚗 Car Price Prediction Web App
 
 A complete **end-to-end Machine Learning project** that predicts the **price of a used car** based on multiple features such as car name, company, fuel type, year, and kilometers driven. The project includes **data cleaning, feature engineering, model training using Scikit-learn Pipelines**, and a **modern Streamlit web application** for real-time predictions.
+<img width="1119" height="790" alt="Screenshot 2025-12-17 152831" src="https://github.com/user-attachments/assets/620fea9e-353a-4182-833d-07d598b5aa2c" />
+
+
 
 ---
 # Link For the Model file : https://nbviewer.org/github/abhinavkumar1268b/Car-Price-Predictor/blob/main/car_price_predict/ml_model.ipynb
